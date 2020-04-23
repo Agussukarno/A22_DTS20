@@ -34,6 +34,63 @@ a {
 
 
 /* Silahkan pak Agus mengerjakan setting css content-wrapper disini */
+.content-wrapper {
+  padding-bottom: 80px;
+  padding-left: 5%;
+  padding-right: 5%;
+  text-align: center;
+}
+
+.heading {
+  padding-top: 80px;
+  padding-bottom: 50px;
+  color: #5f5d60;
+}
+
+.heading h2 {
+  font-weight: normal;
+}
+
+.product {
+  float: left;
+  width: 25%;
+}
+
+.product-icon {
+  border: 1px solid #eee;
+  background-color: #E2FCEF;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-bottom: 20px;
+  padding: 15px 0;
+
+}
+
+.product-icon p {
+  padding-top: 10px;
+  top: 44%;
+  font-size: 20px;
+  width: 100%;
+  padding-bottom: 20px;
+}
+
+.myproduct-icon {
+  width: 200px;
+  height: 200px;
+}
+
+.product-detail {
+  padding: 15px 40px;
+  background-color: #5dca88;
+  cursor: pointer;
+  box-shadow: 0 7px #1a7940;
+}
+
+.product-detail:active {
+  position: relative;
+  top: 7px;
+  box-shadow: none;
+}
 
 
 
