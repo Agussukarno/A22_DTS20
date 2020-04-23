@@ -1,0 +1,17 @@
+/* Silahkan teman2 untuk mengatur css supaya responsive sesuai media yang digunakan bila bagiannya perlu diatur ulang */
+
+/* Untuk Tablet */
+@media all and (max-width: 1000px) {
+
+
+
+
+}
+
+/* Untuk Smartphone */
+@media all and (max-width: 670px) {
+
+
+
+
+}
