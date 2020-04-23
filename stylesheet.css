@@ -131,12 +131,11 @@ a {
 .profil-wrapper {
   text-align: center;
   background-color: #175b86;
-
-  color: white;
+  color: #FFFFFF;
 }
 
 .heading h3 {
-  padding-top: 15px;
+  padding-top: 5px;
 }
 
 .txt-info {
