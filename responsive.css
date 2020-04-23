@@ -2,7 +2,9 @@
 
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
-
+  .profil {
+    width : 50%;
+  }
 
 
 
@@ -10,7 +12,9 @@
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
-
+  .profil {
+    width : 100%;
+  }
 
 
 
