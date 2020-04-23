@@ -40,10 +40,27 @@ a {
 
 
 /* Silahkan pak Achmad Fathoni mengerjakan setting css profil-wrapper disini */
+.profil {
+  float: left;
+  width: 20%;
+  padding-top: 5px;
+}
 
+.profil-wrapper {
+  text-align: center;
+  background-color: #175b86;
 
+  color: white;
+}
 
+.heading h3 {
+  padding-top: 15px;
+}
 
+.txt-info {
+  padding-left: 20px;
+  padding-right: 20px;
+}
 
 /* Silahkan pak Ahmadi mengerjakan setting css footer disini */
 
