@@ -2,20 +2,54 @@
 
 /* Untuk Tablet */
 @media all and (max-width: 1000px) {
+/* header */
+  
+
+/* top-wrapper */
+
+  
+/* content-wrapper */
+  .heading h2 {
+    font-size: 20px;
+  }
+  .product {
+    width: 50%;
+    margin-bottom: 50px;
+  }
+  
+/* profil-wrapper */
   .profil {
     width : 50%;
   }
 
+/* footer */
 
-
+  
 }
 
 /* Untuk Smartphone */
 @media all and (max-width: 670px) {
+/* header */
+  
+  
+/* top-wrapper */
+  
+  
+/* content-wrapper */
+  .heading h2 {
+    font-size: 20px;
+  }
+  
+  .product {
+    width: 100%;
+  }
+
+/*   profil-wrapper */
   .profil {
     width : 100%;
   }
-
-
-
+  
+/* footer */
+  
+  
 }
