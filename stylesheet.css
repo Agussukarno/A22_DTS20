@@ -35,7 +35,7 @@ header {
 .logo-a22 {
   height: 48px;
   padding-top: 1px;
-  padding-left: 20px;
+  padding-left: 40px;
 }
 
 .header-logo {
@@ -49,7 +49,7 @@ header {
 .header-list a {
   color: white;
   line-height: 50px;
-  padding: 0px 20px;
+  padding: 0px 40px;
   display: block;
   float: left;
   transition: all 0.5s;
@@ -76,7 +76,7 @@ header {
 /* Silahkan pak Tegsas mengerjakan setting css top-wrapper disini */
 .top-wrapper {
   padding: 180px 0 100px 0;
-  background-image: url(https://github.com/Agussukarno/A22_DTS20/blob/8b704235004d9837d68074d919520b253ed1636c/pictures/roket_panglima_2.png?raw=true);
+  background-image: url("pictures/roket_panglima_2.png");
   background-size: cover;
   color: black;
   text-align: center;
