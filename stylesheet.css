@@ -38,8 +38,19 @@ header {
   padding-left: 40px;
 }
 
+.menu-ikon {
+  height: 35px;
+  padding-right: 40px;
+  padding-top: 12px;
+}
+
 .header-logo {
   float: left;
+}
+
+.header-menu {
+  float: right;
+  display: none;
 }
 
 .header-list {
@@ -58,20 +69,6 @@ header {
 .header-list a:hover {
   background-color: rgba(255, 255, 255, 0.3);
 }
-
-.fa {
-  margin-right: 5px;
-}
-
-.menu-icon {
-  color: white;
-  float: right;
-  font-size: 25px;
-  padding: 21px 0;
-  display: none;
-}
-
-
 
 
 /* Silahkan pak Tegsas mengerjakan setting css top-wrapper disini */
