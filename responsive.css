@@ -22,7 +22,9 @@
   }
 
 /* footer */
-
+  .bawah {
+    widht: 50%;
+  }
   
 }
 
@@ -60,6 +62,8 @@
   }
   
 /* footer */
-  
+  .bawah {
+    width: 25%;
+  }
   
 }
