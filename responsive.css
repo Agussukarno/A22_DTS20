@@ -4,10 +4,9 @@
 @media all and (max-width: 1000px) {
 /* header */
   
-  .header-list a {
-    padding: 0px 20px;
+ .header-list a {
+   padding: 0 20px;
   }
-
   
 
 /* top-wrapper */
