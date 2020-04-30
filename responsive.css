@@ -39,7 +39,8 @@
   }
   
   .header-menu {
-  display:block;
+  display: block;
+  float: right;
   }
   
 /* top-wrapper */
